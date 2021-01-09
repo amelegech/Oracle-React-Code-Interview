@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  width: 70%;
+  border: 20px;
+  padding: 25px;
+}
+body{
+  background-color: #faf6f2;
+  color: rgb(232, 238, 240);
+  
+}
+h3{
+  color: black;
+}
+table{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  border-collapse: collapse;
+  width: 60%;
+  padding: 10px;
+  border: rgb(36, 32, 32) 50px;
+  background-color: rgb(31, 72, 73);
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
